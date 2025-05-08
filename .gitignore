@@ -1,0 +1,6 @@
+Backend/__pycache__
+Backend/.env
+Backend/myenv
+
+Frontend/node_modules
+React-Native-App/node_modules
